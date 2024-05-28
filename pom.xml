@@ -23,7 +23,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <dependency>  
       <groupId>org.springframework</groupId>
       <artifactId>spring-beans</artifactId>  
-      <version>4.3.9.RELEASE</version>
+      <version>4.3.26.RELEASE</version>
     </dependency>  
   </dependencies>  
   
